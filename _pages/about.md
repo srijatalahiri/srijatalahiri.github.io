@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-I am a 2nd year Ph.D. student working in the field of theoretical condensed matter physics under the supervision Prof. Sourabh Basu at the Indian Institute of Technology, Guwahati.
+I am a 2nd year Ph.D. student working in the field of theoretical Condensed Matter Physics under the supervision Prof. Sourabh Basu at the Indian Institute of Technology, Guwahati.
 
-I joined Dr. Basu's group in the spring of 2021 and since then I have been engaged in studying fascinating properties of higher order topological insulators (HOTIs). ...
+I joined Prof. Basu's group in the spring of 2021 and since then I have been engaged in studying fascinating properties of higher order topological insulators (HOTIs). Higher order topology is an extension to the field of topological insulators. Topological insulators in general refer to systems which show contrasting bulk-boundary behaviour. The properties of these systems are highly robust causing them to be stable under minor perturbations that do not disturb the symmetries of the Hamiltonian. I am involved in theoretically studying systems that show topological features and how they behave under various perturbations.
 
-I graduated in 2018 with a Bachelors (Honours) in Physics from Bethune College, University of Calcutta and Masters in Physics in 2020 from Jawaharlal Nehru University. BSc and MSc project work if you want to mention them.
+I graduated in 2018 with a B.Sc. (Honours) in Physics from Bethune College, University of Calcutta and an M.Sc. in Physics in 2020 from Jawaharlal Nehru University. I completed my M.Sc. project under the supervision of Prof. Brijesh Kumar.  
