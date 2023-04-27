@@ -4,5 +4,7 @@ main:
     url: /publications/ 
 
   - title: "Teaching/Experience"
-    url: /teaching/    
+    url: /teaching/
     
+  - title: "Conferences"
+    url: /conferences/
