@@ -16,3 +16,5 @@ I joined Dr. Basu's group in the spring of 2021 and since then I have been engag
 Earlier, I studied these things using theoretical techniques from quantum physicss and many-body physics with Prof. Someone.
 
 I graduated in 2018 with a Bachelors (Honours) in Physics from this college and Masters in Physics in 2020 from Jawaharlal Nehru University. In my Masters research I investigated these things. I was advised by Prof. This Guy.
+
+And here re the changes.
