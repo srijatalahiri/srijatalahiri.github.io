@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a 2nd year Ph.D. student working in the field of theoretical Condensed Matter Physics under the supervision Prof. Sourabh Basu at the Indian Institute of Technology, Guwahati.
+I am a 2nd year Ph.D. student working in the field of theoretical Condensed Matter Physics under the supervision of Prof. Sourabh Basu at the Indian Institute of Technology, Guwahati.
 
 I joined Prof. Basu's group in the spring of 2021 and since then I have been engaged in studying fascinating properties of higher order topological insulators (HOTIs). Higher order topology is an extension to the field of topological insulators. Topological insulators in general refer to systems which show contrasting bulk-boundary behaviour. The properties of these systems are highly robust causing them to be stable under minor perturbations that do not disturb the symmetries of the Hamiltonian. I am involved in theoretically studying systems that show topological features and how they behave under various perturbations.
 
