@@ -1,0 +1,9 @@
+---
+title: "Higher order topology in a band deformed Haldane model"
+collection: publications
+permalink: 
+excerpt: 'Haldane model is a celebrated tight binding toy model in a 2D honeycomb lattice that exhibits quantized Hall conductance in the absence of an external magnetic field. In our work, we deform the bands of the Haldane model smoothly by varying one of its three nearest neighbour hopping amplitudes ($t_1$), while keeping the other two ($t$) fixed. This breaks the $C_3$ symmetry of the Hamiltonian, while the $M_x*T$ symmetry is preserved. The symmetry breaking causes the Dirac cones to shift from the $K$ and the $K'$ points in the Brillouin zone (BZ) to an intermediate $M$ point. This is evident from the Berry curvature plots which show a similar shift in the corresponding values as a function of $\frac{t_1}{t}$. We observe two different topological phases, one being a topological insulator (TI) phase and the other is a higher order topological insulator (HOTI). The Chern number ($C$) remains perfectly quantized at a value of $C=1$ for the TI phase and goes to zero in the HOTI phase. Furthermore the evolution of the Wannier charge center (WCC) as the band is deformed shows a jump in the TI phase indicating a non-trivial bulk. We also study the HOTI phase and diagonalize the real space Hamiltonian on a rhombic supercell to show the presence of in-gap zero energy corner modes. The polarization of the system, namely $p_x$ and $p_y$, are evaluated, along the $x$ and the $y$ directions respectively. We see that both $p_x$ and $p_y$ are quantized in the HOTI phase owing to the presence of the inversion symmetry of the system.'
+date: 2023-04-20
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2304.10635'
+---
