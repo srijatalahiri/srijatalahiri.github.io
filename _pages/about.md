@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-_I am a 2nd year Ph.D. student working in the field of theoretical Condensed Matter Physics under the supervision of [Prof. Sourabh Basu](https://www.iitg.ac.in/physics/fac/saurabh/) at the Indian Institute of Technology, Guwahati. I joined Prof. Basu's group in the fall of 2021 and since then I have been engaged in studying fascinating properties of higher order topological insulators. I have been awarded the prestigious Prime Minister's Research Fellowship in the year 2022 through the lateral entry channel._
+_I am a 2nd year Ph.D. student working in the field of theoretical Condensed Matter Physics under the supervision of [Prof. Saurabh Basu](https://www.iitg.ac.in/physics/fac/saurabh/) at the Indian Institute of Technology, Guwahati. I joined Prof. Basu's group in the fall of 2021 and since then I have been engaged in studying fascinating properties of higher order topological insulators. I have been awarded the prestigious Prime Minister's Research Fellowship in the year 2022 through the lateral entry channel._
 
 **My work**
 
