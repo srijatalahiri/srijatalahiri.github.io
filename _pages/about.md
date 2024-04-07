@@ -20,6 +20,7 @@ I have been awarded the prestigious Prime Minister's Research Fellowship in the 
 Topological insulators (TI) are exotic systems that mimic ordinary insulators in their bulk while hosting robust conducting boundary states. A conventioned d-dimensional TI hosts topologically non-trivial states at their d-1 dimensional boundary. Higher order topology is an extension to the field of topological insulators where the manifestation of topology occurs at boundaries of dimension less than d-1. Topological materials in general show contrasting bulk-boundary behaviour. The properties of these systems are highly robust causing them to be stable under minor perturbations that do not disturb the symmetries of the Hamiltonian. 
 
 **Education**
+
 2021-Present: Research fellow at IIT Guwahati
 
 2018-2020:    Master's in Physics from Jawaharlal Nehru University (JNU), New Delhi
