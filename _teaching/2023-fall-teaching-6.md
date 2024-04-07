@@ -1,5 +1,5 @@
 ---
-title: "Numerical methods and simulation techniques for scientists and engineers"
+title: "NPTEL: Numerical methods and simulation techniques for scientists and engineers"
 collection: teaching
 type: "Undergraduate course"
 venue: "NPTEL"
