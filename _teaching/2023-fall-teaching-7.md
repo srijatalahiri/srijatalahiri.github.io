@@ -1,5 +1,5 @@
 ---
-title: "PH 211: Electronic laboratory"
+title: "PH 211: Electronics laboratory"
 collection: teaching
 type: "Undergraduate course"
 venue: "IIT GUWAHATI"
