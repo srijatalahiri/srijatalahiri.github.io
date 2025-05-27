@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a 3rd year Ph.D. student working in the field of theoretical Condensed Matter Physics under the supervision of [Prof. Saurabh Basu](https://www.iitg.ac.in/physics/fac/saurabh/) at the Indian Institute of Technology, Guwahati. 
+I am a 4th year Ph.D. student working in the field of theoretical Condensed Matter Physics under the supervision of [Prof. Saurabh Basu](https://www.iitg.ac.in/physics/fac/saurabh/) at the Indian Institute of Technology, Guwahati. 
 
 I joined Prof. Basu's group in the fall of 2021 and since then I have been engaged in studying fascinating properties of higher order topological insulators. 
 
