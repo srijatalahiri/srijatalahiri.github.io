@@ -1,4 +1,3 @@
-
 ---
 title: "Gordon Research Conference"
 collection: conferences
