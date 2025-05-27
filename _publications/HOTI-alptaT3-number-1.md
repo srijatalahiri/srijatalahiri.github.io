@@ -12,6 +12,6 @@ Further, we show that the e-p coupling yields a complete disruption of the corne
 date: 2024-12-30
 venue: 'Physical Review B'
 paperurl: 'https://journals.aps.org/prb/pdf/10.1103/PhysRevB.110.235432'
----
-![GRC Conference Center](/images/GRC.jpg)
+thumbnail: /images/GRC.jpg
 
+---
