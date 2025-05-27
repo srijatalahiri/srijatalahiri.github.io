@@ -4,7 +4,7 @@ collection: conferences
 type: "Conference"
 venue: "Barcelona, Spain"
 <p align="center">
-  <img src="/assets/images/group photo.jpg" alt="IOP Conference Center" width="600">
+  <img src="/assets/images/group_photo.jpg" alt="IOP Conference Center" width="600">
 </p>
 
 permalink: /conferences/2025-GRC-conference-number-5
