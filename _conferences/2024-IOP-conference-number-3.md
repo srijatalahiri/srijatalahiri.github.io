@@ -1,5 +1,5 @@
 ---
-title: "TSACMP, 2024, IOP"
+title: "Topical School of Advanced Condensed Matter Physics, 2024"
 collection: conferences
 type: "Conference"
 venue: "IOP, BHUBANESWAR"
